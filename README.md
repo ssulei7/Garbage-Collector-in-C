@@ -1,0 +1,1 @@
+To build, run make cmd through root of repoistory.
